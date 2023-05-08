@@ -4,4 +4,4 @@ Dwi Achmad Maulana
 Jawaban Ujian Tengah Semester 
 Mata kuliah Pengembangan Aplikasi Permainan
 
-Silhakan Download File .zip Kemudian extract filenya dan import file project.godot di software Godot
+Silahkan Download File .zip Kemudian extract filenya dan import file project.godot di software Godot
