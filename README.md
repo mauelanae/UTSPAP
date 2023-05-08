@@ -1,5 +1,5 @@
-# Dwi Achmad Maulana
-# 32602000021
+Dwi Achmad Maulana
+32602000021
 
 Jawaban Ujian Tengah Semester 
 Mata kuliah Pengembangan Aplikasi Permainan
